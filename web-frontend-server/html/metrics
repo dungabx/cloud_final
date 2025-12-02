@@ -1,0 +1,3 @@
+# HELP my_dummy_metric Dummy metric for Prometheus test
+# TYPE my_dummy_metric counter
+my_dummy_metric 1
